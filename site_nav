@@ -1,0 +1,11 @@
+<nav class="navbar navbar-inverse" role="navigation">
+<div class="container">
+<a class="navbar-brand" href="/">Website.com</a>
+<ul class="nav nav-pills">
+<li><a href="/category">Category</a></li>
+</ul>
+</div>
+</nav>
+<div class="container">
+<div id="primary" class="site-content">
+<div id="content" role="main">
